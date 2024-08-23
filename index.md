@@ -11,3 +11,7 @@ int number = 5;
 Increment(ref number);
 Console.WriteLine($"Число после метода Increment: {number}");
 ```
+- [ ] add a header
+- [ ] add an image
+- [ ] add a code example
+- [ ] add a task list
